@@ -1,0 +1,28 @@
+{
+  "name": "practice-290922-vitest-tdd-01",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vite",
+    "test": "vitest",
+    "coverage": "vitest run --coverage"
+  },
+  "eslintConfig": {
+    "extends": "./node_modules/standard/eslintrc.json"
+  },
+  "dependencies": {
+    "mathjs": "11.2.1",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  },
+  "devDependencies": {
+    "@testing-library/react": "13.4.0",
+    "@vitejs/plugin-react": "2.1.0",
+    "@vitest/coverage-c8": "0.23.4",
+    "happy-dom": "6.0.4",
+    "standard": "17.0.0",
+    "vitest": "0.23.4"
+  }
+}

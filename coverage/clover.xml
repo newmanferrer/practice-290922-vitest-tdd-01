@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1664576262307" clover="3.2.0">
+  <project timestamp="1664576262308" name="All files">
+    <metrics statements="101" coveredstatements="101" conditionals="33" coveredconditionals="33" methods="9" coveredmethods="9" elements="143" coveredelements="143" complexity="0" loc="101" ncloc="101" packages="3" files="3" classes="3"/>
+    <package name="01-fizzbuzz-function">
+      <metrics statements="21" coveredstatements="21" conditionals="9" coveredconditionals="9" methods="1" coveredmethods="1"/>
+      <file name="fizzbuzz.js" path="/home/newmanf/Projects/React/2022/Practices/practice-290922-vitest-tdd-01/src/01-fizzbuzz-function/fizzbuzz.js">
+        <metrics statements="21" coveredstatements="21" conditionals="9" coveredconditionals="9" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="9" count="1" type="cond" truecount="1" falsecount="0"/>
+        <line num="10" count="30" type="cond" truecount="1" falsecount="0"/>
+        <line num="11" count="30" type="cond" truecount="2" falsecount="0"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="13" count="27" type="cond" truecount="1" falsecount="0"/>
+        <line num="14" count="27" type="stmt"/>
+        <line num="15" count="27" type="stmt"/>
+        <line num="16" count="27" type="cond" truecount="1" falsecount="0"/>
+        <line num="17" count="81" type="cond" truecount="1" falsecount="0"/>
+        <line num="18" count="81" type="stmt"/>
+        <line num="19" count="27" type="stmt"/>
+        <line num="20" count="30" type="cond" truecount="2" falsecount="0"/>
+        <line num="21" count="25" type="stmt"/>
+      </file>
+    </package>
+    <package name="02-adventjs-25">
+      <metrics statements="36" coveredstatements="36" conditionals="14" coveredconditionals="14" methods="1" coveredmethods="1"/>
+      <file name="adventjs-25.js" path="/home/newmanf/Projects/React/2022/Practices/practice-290922-vitest-tdd-01/src/02-adventjs-25/adventjs-25.js">
+        <metrics statements="36" coveredstatements="36" conditionals="14" coveredconditionals="14" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="13" count="1" type="cond" truecount="1" falsecount="0"/>
+        <line num="14" count="9" type="cond" truecount="1" falsecount="0"/>
+        <line num="15" count="9" type="cond" truecount="2" falsecount="0"/>
+        <line num="16" count="2" type="stmt"/>
+        <line num="17" count="5" type="cond" truecount="1" falsecount="0"/>
+        <line num="18" count="9" type="cond" truecount="1" falsecount="0"/>
+        <line num="19" count="2" type="stmt"/>
+        <line num="20" count="3" type="cond" truecount="1" falsecount="0"/>
+        <line num="21" count="9" type="cond" truecount="1" falsecount="0"/>
+        <line num="22" count="1" type="stmt"/>
+        <line num="23" count="2" type="cond" truecount="1" falsecount="0"/>
+        <line num="24" count="2" type="stmt"/>
+        <line num="25" count="2" type="stmt"/>
+        <line num="26" count="5" type="cond" truecount="1" falsecount="0"/>
+        <line num="27" count="5" type="stmt"/>
+        <line num="28" count="5" type="stmt"/>
+        <line num="29" count="5" type="stmt"/>
+        <line num="30" count="5" type="cond" truecount="2" falsecount="0"/>
+        <line num="31" count="1" type="stmt"/>
+        <line num="32" count="4" type="cond" truecount="1" falsecount="0"/>
+        <line num="33" count="4" type="stmt"/>
+        <line num="34" count="4" type="stmt"/>
+        <line num="35" count="1" type="cond" truecount="1" falsecount="0"/>
+        <line num="36" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="03-react">
+      <metrics statements="44" coveredstatements="44" conditionals="10" coveredconditionals="10" methods="7" coveredmethods="7"/>
+      <file name="Calculator.jsx" path="/home/newmanf/Projects/React/2022/Practices/practice-290922-vitest-tdd-01/src/03-react/Calculator.jsx">
+        <metrics statements="44" coveredstatements="44" conditionals="10" coveredconditionals="10" methods="7" coveredmethods="7"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="5" count="1" type="cond" truecount="1" falsecount="0"/>
+        <line num="6" count="1" type="cond" truecount="1" falsecount="0"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="8" count="1" type="cond" truecount="1" falsecount="0"/>
+        <line num="9" count="22" type="stmt"/>
+        <line num="10" count="22" type="stmt"/>
+        <line num="11" count="22" type="cond" truecount="1" falsecount="0"/>
+        <line num="12" count="10" type="stmt"/>
+        <line num="13" count="10" type="stmt"/>
+        <line num="14" count="22" type="stmt"/>
+        <line num="15" count="22" type="stmt"/>
+        <line num="16" count="22" type="stmt"/>
+        <line num="17" count="22" type="stmt"/>
+        <line num="18" count="22" type="stmt"/>
+        <line num="19" count="22" type="stmt"/>
+        <line num="20" count="22" type="stmt"/>
+        <line num="21" count="22" type="stmt"/>
+        <line num="22" count="22" type="cond" truecount="1" falsecount="0"/>
+        <line num="23" count="22" type="stmt"/>
+        <line num="24" count="22" type="cond" truecount="1" falsecount="0"/>
+        <line num="25" count="22" type="cond" truecount="1" falsecount="0"/>
+        <line num="26" count="22" type="stmt"/>
+        <line num="27" count="22" type="stmt"/>
+        <line num="28" count="22" type="stmt"/>
+        <line num="29" count="22" type="stmt"/>
+        <line num="30" count="22" type="stmt"/>
+        <line num="31" count="22" type="stmt"/>
+        <line num="32" count="22" type="cond" truecount="1" falsecount="0"/>
+        <line num="33" count="22" type="cond" truecount="1" falsecount="0"/>
+        <line num="34" count="22" type="stmt"/>
+        <line num="35" count="22" type="stmt"/>
+        <line num="36" count="22" type="stmt"/>
+        <line num="37" count="22" type="stmt"/>
+        <line num="38" count="22" type="cond" truecount="1" falsecount="0"/>
+        <line num="39" count="22" type="stmt"/>
+        <line num="40" count="22" type="stmt"/>
+        <line num="41" count="22" type="stmt"/>
+        <line num="42" count="22" type="stmt"/>
+        <line num="43" count="22" type="stmt"/>
+        <line num="44" count="22" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
